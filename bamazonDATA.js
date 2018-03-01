@@ -44,7 +44,7 @@ function order() {
 }
 
 .then(function(answer) {
-  // when finished prompting, insert a new item into the db with that info
+  // when finished prompting, update quanity in the db
   connection.query(
     "INSERT INTO auctions SET ?",
     {
