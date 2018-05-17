@@ -1,6 +1,6 @@
 **Challenge: Create 3 Views, Customer, Supervisor, Manager**
 
-##1: For the Customer View
+##1: For the Customer View##
 
 Create a MySQL Database called bamazon, reate a Table inside of that database called products.
 The products table should have each of the following columns:
